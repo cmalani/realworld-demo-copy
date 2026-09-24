@@ -1,5 +1,15 @@
 # Conduit — Legacy Implementation
 
+> This repository is a copy of
+> [BicycleWalrus/realworld-demo](https://github.com/BicycleWalrus/realworld-demo)
+> — all credit for the course repo itself (the `.claude/` agents, skills,
+> and hook; `REQUIREMENTS.md`/`USER_STORIES.md`/`ACCEPTANCE_CRITERIA.md`;
+> `ISSUES.md`; and the GitHub workflow docs) goes to that repository and
+> its author. This copy exists to prepare teaching material from a known,
+> clean checkpoint of that work. The underlying application is itself the
+> [RealWorld](https://github.com/gothinkster/realworld) example app; see
+> [`LICENSE`](./LICENSE) for its original MIT copyright notice.
+
 > **For AI agents:** to initialize this application — database, schema,
 > and the required MCP server — do not improvise from the setup steps
 > below. Read and follow [`INIT.md`](./INIT.md) instead; it is the
