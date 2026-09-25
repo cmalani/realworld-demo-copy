@@ -42,6 +42,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Python virtual environment (machine-local tooling, never committed)
+.venv/
+
 # Claude Code scratch artifacts — pre-implementation planning notes, not
 # part of the deliverable (see self-directed-project.md, "Before You
 # Open a Pull Request").
